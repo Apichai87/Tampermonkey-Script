@@ -10,6 +10,7 @@
 // @grant        GM_addStyle
 // @run-at       document-end
 // @require      http://code.jquery.com/jquery-3.4.1.min.js
+// @updateURL    https://raw.githubusercontent.com/Apichai87/Tampermonkey-Script/main/Fix%20Lazada.js
 // ==/UserScript==
 
 (function() {
